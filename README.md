@@ -1,2 +1,2 @@
 # gitlearn
-learning git
+learning git.
